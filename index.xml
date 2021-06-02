@@ -6,14 +6,59 @@
     <description>Recent content on 桂芬的繪畫園地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://fluteli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 14:46:10 +0800</lastBuildDate><atom:link href="https://fluteli.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title></title>
+      <link>https://fluteli.github.io/blog/organize-your-life.1/</link>
+      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://fluteli.github.io/blog/organize-your-life.1/</guid>
+      <description>這是第2幅畫</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fluteli.github.io/blog/organize-your-life.2/</link>
+      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://fluteli.github.io/blog/organize-your-life.2/</guid>
+      <description>我是第3幅畫</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fluteli.github.io/blog/organize-your-life.3/</link>
+      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://fluteli.github.io/blog/organize-your-life.3/</guid>
+      <description>我是第4幅畫</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fluteli.github.io/blog/organize-your-life.4/</link>
+      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://fluteli.github.io/blog/organize-your-life.4/</guid>
+      <description>我是第5幅畫</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fluteli.github.io/blog/organize-your-life/</link>
+      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://fluteli.github.io/blog/organize-your-life/</guid>
+      <description>我是第1幅畫</description>
+    </item>
+    
+    <item>
+      <title>關於我</title>
       <link>https://fluteli.github.io/about/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
       
       <guid>https://fluteli.github.io/about/</guid>
-      <description>Hello, I’m John Doe Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product.</description>
+      <description>Hello, I’m Vivian 桂芬 我熱愛繪畫 </description>
     </item>
     
     <item>
@@ -121,51 +166,6 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://fluteli.github.io/blog/charming-evening-field/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://fluteli.github.io/blog/organize-your-life.1/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://fluteli.github.io/blog/organize-your-life.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://fluteli.github.io/blog/organize-your-life.2/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://fluteli.github.io/blog/organize-your-life.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://fluteli.github.io/blog/organize-your-life.3/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://fluteli.github.io/blog/organize-your-life.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://fluteli.github.io/blog/organize-your-life.4/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://fluteli.github.io/blog/organize-your-life.4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://fluteli.github.io/blog/organize-your-life/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://fluteli.github.io/blog/organize-your-life/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
