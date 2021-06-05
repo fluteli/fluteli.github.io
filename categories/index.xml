@@ -8,15 +8,6 @@
     <language>zh-tw</language>
     <lastBuildDate>Fri, 04 Jun 2021 14:46:10 +0800</lastBuildDate><atom:link href="https://fluteli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Food</title>
-      <link>https://fluteli.github.io/categories/food/</link>
-      <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
-      
-      <guid>https://fluteli.github.io/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>油畫</title>
       <link>https://fluteli.github.io/categories/%E6%B2%B9%E7%95%AB/</link>
       <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
@@ -28,9 +19,18 @@
     <item>
       <title>素描</title>
       <link>https://fluteli.github.io/categories/%E7%B4%A0%E6%8F%8F/</link>
-      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
+      <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
       
       <guid>https://fluteli.github.io/categories/%E7%B4%A0%E6%8F%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>色鉛筆</title>
+      <link>https://fluteli.github.io/categories/%E8%89%B2%E9%89%9B%E7%AD%86/</link>
+      <pubDate>Fri, 04 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://fluteli.github.io/categories/%E8%89%B2%E9%89%9B%E7%AD%86/</guid>
       <description></description>
     </item>
     

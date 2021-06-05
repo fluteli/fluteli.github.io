@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Hello Kitty</title>
       <link>https://fluteli.github.io/blog/organize-your-life.2/</link>
       <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
       
@@ -35,12 +35,21 @@
     </item>
     
     <item>
-      <title></title>
+      <title>史努比的星空</title>
       <link>https://fluteli.github.io/blog/organize-your-life/</link>
       <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
       
       <guid>https://fluteli.github.io/blog/organize-your-life/</guid>
       <description>我是第1幅畫</description>
+    </item>
+    
+    <item>
+      <title>小叮當與大雄</title>
+      <link>https://fluteli.github.io/blog/organize-your-life.3/</link>
+      <pubDate>Wed, 02 Jun 2021 14:46:10 +0800</pubDate>
+      
+      <guid>https://fluteli.github.io/blog/organize-your-life.3/</guid>
+      <description>我是第4幅畫</description>
     </item>
     
   </channel>
