@@ -7,20 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language><atom:link href="https://fluteli.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Homepage 1</title>
-      <link>https://fluteli.github.io/homepage/home-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fluteli.github.io/homepage/home-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Homepage 2</title>
+      <title>單欄式呈現</title>
       <link>https://fluteli.github.io/homepage/home-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fluteli.github.io/homepage/home-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多欄式呈現</title>
+      <link>https://fluteli.github.io/homepage/home-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fluteli.github.io/homepage/home-1/</guid>
       <description></description>
     </item>
     
